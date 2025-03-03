@@ -114,5 +114,8 @@ ul li {
     img {
         display: none; /* AND YOU CAN MAKE THINGS DISAPPEAR WHEN NOT NEEDED */
     }
+     aside{
+        display: none;
+    }
 
 }
